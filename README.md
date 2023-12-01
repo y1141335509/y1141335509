@@ -4,11 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y1141335509)](https://github.com/y1141335509/github-readme-stats)
 
-[![y1141335509's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/y1141335509/github-readme-stats)
 
 
 <!--
 **y1141335509/y1141335509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![y1141335509's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/y1141335509/github-readme-stats)
 
 Here are some ideas to get you started:
 
