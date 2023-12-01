@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![y1141335509's GitHub stats](https://github-readme-stats.vercel.app/api?username=y1141335509&show_icons=true&theme=one_dark_pro)](https://github.com/y1141335509/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y1141335509)](https://github.com/y1141335509/github-readme-stats)
+
+[![y1141335509's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=y1141335509)](https://github.com/y1141335509/github-readme-stats)
+
 <!--
 **y1141335509/y1141335509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
