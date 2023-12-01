@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![y1141335509's GitHub stats](https://github-readme-stats.vercel.app/api?username=y1141335509&show_icons=true&theme=one_dark_pro)](https://github.com/y1141335509/github-readme-stats)
+[![y1141335509's GitHub stats](https://github-readme-stats.vercel.app/api?username=y1141335509&show_icons=true&theme=ambient_gradient)](https://github.com/y1141335509/github-readme-stats)
 
 
 
