@@ -3,13 +3,13 @@
 
 旧正月おめでとう！ Happy Chinese Lunar Year!
 
-🏮  🏮 🏮  🏮   🏮  🏮
+🏮  🏮 🏮  🏮 🏮 🏮  🏮
 
 🏮  🏮  🏮 🏮 🏮 🏮  🏮
   
-🏮 🏮  🏮👦👩🧒👨    🏮
+🏮 🏮  👦👩🧒👨    🏮
   
-🏮 🏮  🏮👨‍🦳👵🧧🎁 🏮  🏮
+🏮 🏮 👨‍🦳👵🧧🎁 🏮  🏮
 
 [![y1141335509's GitHub stats](https://github-readme-stats.vercel.app/api?username=y1141335509&show_icons=true&theme=ambient_gradient)](https://github.com/y1141335509/github-readme-stats)
 
