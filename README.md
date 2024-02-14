@@ -1,15 +1,18 @@
 ### $e^{i🤔}=\cos 🤔 + i\sin 🤔$
 
 
-旧正月おめでとう！ Happy Chinese Lunar Year!
+ハッピー・バレンタインデー! Happy Valentine's Day!
 
-🏮  🏮 🏮  🏮 🏮 🏮  🏮
+         🩷                   🩷
+    🩷        🩷          🩷       🩷
+  🩷              🩷  🩷             🩷
+    🩷                              🩷
+       🩷        🙎‍♂️ 🌹 🙎‍♀️         🩷
+          🩷                  🩷
+             🩷            🩷
+                🩷     🩷
+                   🩷
 
-🏮  🏮  🏮 🏮 🏮 🏮  🏮
-  
-🏮 🏮  👦👩🧒👨  🏮  🏮
-  
-🏮 🏮 👨‍🦳👵🧧🎁 🏮  🏮
 
 [![y1141335509's GitHub stats](https://github-readme-stats.vercel.app/api?username=y1141335509&show_icons=true&theme=ambient_gradient)](https://github.com/y1141335509/github-readme-stats)
 
